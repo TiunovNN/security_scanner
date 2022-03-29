@@ -30,7 +30,7 @@ kombu==5.1.0
 Mako==1.1.4
 MarkupSafe==2.0.1
 more-itertools==8.8.0
-paramiko==2.7.2
+paramiko==2.10.1
 pdfrw==0.4
 Pillow==8.2.0
 pluggy==0.13.1
